@@ -7,6 +7,6 @@ in tandem with Git. Ideally, run_generator.py would be used in a Git repository 
 
 Note that the script does not overwrite or generate duplicate files or folders if they already exist in the present directory.
 
-Information was used from:
-https://docs.python-guide.org/writing/structure/
+Information was used from:  
+https://docs.python-guide.org/writing/structure  
 http://copitosystem.com/first-serious-python-project/
